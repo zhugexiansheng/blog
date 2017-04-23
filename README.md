@@ -14,4 +14,4 @@
     * [线程安全](http://note.youdao.com/noteshare?id=a4eabd559165bc7873c39bed347c4c0f)
 * weex开发
     * [weex+express+gulp开发文件搭建](http://www.jianshu.com/p/deff0cec0e91)
-    * [http://www.jianshu.com/p/eeb8614b9dd2](http://www.jianshu.com/p/eeb8614b9dd2)
+    * [weex开发之使用webpack优化打包](http://www.jianshu.com/p/eeb8614b9dd2)

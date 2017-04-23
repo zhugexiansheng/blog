@@ -12,3 +12,6 @@
     * [线程的数据共享和不共享](http://note.youdao.com/noteshare?id=17a1b55a6a093656018215e338643ebc)
     * [线程的各种函数](http://note.youdao.com/noteshare?id=465fb7ba5e790691a27ea77b9a82c7c6)
     * [线程安全](http://note.youdao.com/noteshare?id=a4eabd559165bc7873c39bed347c4c0f)
+* weex开发
+    * [weex+express+gulp开发文件搭建](http://www.jianshu.com/p/deff0cec0e91)
+    * [http://www.jianshu.com/p/eeb8614b9dd2](http://www.jianshu.com/p/eeb8614b9dd2)
